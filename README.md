@@ -13,7 +13,7 @@
 <!-- Badges -->
 <div align="center" id="badges">
 
-[![License](https://img.shields.io/github/license/JorgeLNJunior/animes-review-api)](LICENSE)
+[![License](https://img.shields.io/github/license/JorgeLNJunior/readme-template?color=lgreen)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/JorgeLNJunior/readme-template?color=lgreen)]()
 
 </div>
