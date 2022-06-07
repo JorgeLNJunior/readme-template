@@ -58,7 +58,7 @@ Escreva aqui os requisitos para rodar o projeto, ex:
 
 Escreva aqui os processos para rodar o projeto.
 
-1. Clone o projeto: `git clone https://github.com/JorgeLNJunior/readme-template.git`.
+1. Baixe o template: `curl -o README.md https://raw.githubusercontent.com/JorgeLNJunior/readme-template/main/README.md`.
 2. Altere o readme.
 
 ## Licença
